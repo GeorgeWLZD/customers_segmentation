@@ -10,9 +10,10 @@ Thus, they have identified an opportunity to apply a **customer segmentation** s
 ![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/83c86646cf13101dc99a2701f7d72d6cf74609fe/img/map.jpg)
 
 ## 2. Data Structure
-*(Content to be added)*
 
-![Data Structure](path/to/your/image.png)
+This is the dataset with 8 variables about the customer consumption. A sample with 1000 rows can be found in the folder called *data*. This data was preprocessed in order to develop the clustering model.
+
+![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/09849241193f78b810668e3fa2cef244f557fad4/img/sample.JPG)
 
 ## 3. Clustering Results
 
