@@ -7,6 +7,8 @@ Given this situation, management believes that they should start implementing st
 
 Thus, they have identified an opportunity to apply a customer segmentation strategy based on RFM (Recency, Frequency, Monetary Value) analysis with the ultimate goal of improving the company's performance.
 
+![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/83c86646cf13101dc99a2701f7d72d6cf74609fe/img/map.jpg)
+
 ## Data Structure
 *(Content to be added)*
 
