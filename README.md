@@ -15,9 +15,13 @@ This is the dataset with 8 variables about the customer consumption. A sample wi
 
 ![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/09849241193f78b810668e3fa2cef244f557fad4/img/sample.JPG)
 
+As we see the total dataset has 525461 rows, and we have categorical and numerical data.
+
+![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/e26a34fe3c8c6921a5d4129412fd997a1a1a66bb/img/info.JPG)
+
 ## 3. Clustering Results
 
-Base on the clustering analysis I identified 4 customer segments, which are the following.
+I performed the agglomerative and K-means algorithms to reach a solution, and to find the proper one I used the inertia metric and the silhouette plot. Based on this clustering analysis I identified 4 customer segments, which are the following
 
 #### Newcomers (segment 1, size: 949 | 23%)
 - These are customers with low spending and low purchase frequency. However, their high recency indicates they have made a purchase relatively recently. 
