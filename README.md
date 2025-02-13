@@ -21,7 +21,7 @@ As we see the total dataset has 525461 rows, and we have categorical and numeric
 
 ## 3. Clustering Results
 
-I performed the agglomerative and K-means algorithms to reach a solution, and to find the proper one I used the inertia metric and the silhouette plot. Based on this clustering analysis I identified 4 customer segments, which are the following
+I performed the agglomerative and K-means algorithms to reach a solution, and to find the proper one I used the inertia metric and the silhouette plot. Based on this clustering analysis I identified 4 customer segments, which are the following.
 
 #### Newcomers (segment 1, size: 949 | 23%)
 - These are customers with low spending and low purchase frequency. However, their high recency indicates they have made a purchase relatively recently. 
