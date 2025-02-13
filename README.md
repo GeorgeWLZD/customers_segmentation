@@ -18,19 +18,19 @@ Thus, they have identified an opportunity to apply a **customer segmentation** s
 
 Base on the clustering analysis I identified 4 customer segments, which are the following.
 
-### Newcomers (segment 1, size: 949 | 23%)
+#### Newcomers (segment 1, size: 949 | 23%)
 - These are customers with low spending and low purchase frequency. However, their high recency indicates they have made a purchase relatively recently. 
 - Likely **new customers** or those testing the brand.
 
-### Casuals (segment 2, size: 848 | 21%)
+#### Casuals (segment 2, size: 848 | 21%)
 - This group has **moderate values across all dimensions**. They spend occasionally, purchase somewhat frequently, and have a moderate recency. 
 - They are engaged at a basic level but have **untapped potential**.
 
-### At-Risk (segment 3, size: 2000 | 49%)
+#### At-Risk (segment 3, size: 2000 | 49%)
 - These customers have low spending and frequency, but their moderate recency indicates they are **still somewhat engaged**. 
 - They are on the verge of becoming inactive and require attention to **prevent churn**.
 
-### Big Spenders (segment 4, size: 270 | 7%)
+#### Big Spenders (segment 4, size: 270 | 7%)
 - These are the **most valuable customers**. They spend a lot, purchase frequently, but their low recency indicates they haven’t made a recent purchase. 
 - They are **highly loyal** but at risk of disengaging if not re-engaged.
 
