@@ -1,6 +1,6 @@
-# Customer Segmentation Project README
+# Customer Segmentation Project
 
-## Business Case
+## 1. Business Case
 A global company has experienced a **decline in sales** over the past six months. Despite an **established customer base** and a diverse catalog, revenue has been steadily declining. The marketing team has tried various strategies, such as discounts and general promotions, but these tactics have not been able to stop the decline in sales.
 
 Given this situation, management believes that they should start implementing strategies based on the purchasing **profile of each customer**.
@@ -9,12 +9,12 @@ Thus, they have identified an opportunity to apply a **customer segmentation** s
 
 ![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/83c86646cf13101dc99a2701f7d72d6cf74609fe/img/map.jpg)
 
-## Data Structure
+## 2. Data Structure
 *(Content to be added)*
 
 ![Data Structure](path/to/your/image.png)
 
-## Clustering Results
+## 3. Clustering Results
 
 Base on the clustering analysis I identified 4 customer segments, which are the following.
 
@@ -38,5 +38,4 @@ Here we can **visualize the profiles** of each segment:
 
 ![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/c26057d3d4c90e8f58dc4011029b13208979f752/img/segments.png)
 
-
-![Clustering Results](path/to/your/image.png)
+## 4. Business Recommendations
