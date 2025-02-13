@@ -36,7 +36,7 @@ They are highly loyal but at risk of disengaging if not re-engaged.
 
 Here we can **visualize the profiles** of each segment:
 
-![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/83c86646cf13101dc99a2701f7d72d6cf74609fe/img/map.jpg)
+![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/c26057d3d4c90e8f58dc4011029b13208979f752/img/segments.png)
 
 
 ![Clustering Results](path/to/your/image.png)
