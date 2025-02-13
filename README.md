@@ -39,3 +39,23 @@ Here we can **visualize the profiles** of each segment:
 ![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/c26057d3d4c90e8f58dc4011029b13208979f752/img/segments.png)
 
 ## 4. Business Recommendations
+
+#### Develop Newcomers segment
+- Implement **onboarding campaigns** to introduce them to the brand’s value.
+- Use **cross-selling** or upselling strategies to encourage larger and more frequent purchases.
+- Provide **personalized promotions** tied to their initial purchase to build loyalty early on.
+
+#### Develop Casuals segment
+- Encourage more frequent purchases by offering **targeted discounts** or **limited-time offers**.
+- Introduce them to a **loyalty program** to incentivize higher spending.
+- Provide **product bundles** or curated recommendations based on past purchases to spark their interest.
+
+#### Reignite At-Risk segment
+- Launch **win-back campaigns** with special offers like “We miss you!” or personalized discounts to reactivate them.
+- Explore their **past purchase behavior** to craft tailored recommendations.
+- Use incentives, such as ****free shipping** or **discounts**, to motivate immediate action.
+
+#### Focus on Big Spenders segment
+- Create exclusive **VIP programs** offering early access to products, premium discounts, or **personalized rewards**.
+- Send **tailored reminders** showcasing new products or promotions to reignite interest.
+- Conduct **surveys** or **feedback requests** to understand why their activity has declined and take corrective action.
