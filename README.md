@@ -34,7 +34,7 @@ They are on the verge of becoming inactive and require attention to prevent chur
 These are the most valuable customers. They spend a lot, purchase frequently, but their low recency indicates they haven’t made a recent purchase. 
 They are highly loyal but at risk of disengaging if not re-engaged.
 
-Here we can visualize the profile of each segment:
+Here we can **visualize the profiles** of each segment:
 
 ![image alt](https://github.com/GeorgeWLZD/customers_segmentation/blob/83c86646cf13101dc99a2701f7d72d6cf74609fe/img/map.jpg)
 
